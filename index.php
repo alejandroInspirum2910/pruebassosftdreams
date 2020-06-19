@@ -24,7 +24,7 @@
 </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Soft Dreams cumple tu sueño</title>
+    <title>Pruebas Soft Dreams</title>
     <link rel='stylesheet' href='revslider/css/settings.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='all' />
 
