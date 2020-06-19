@@ -2,8 +2,7 @@
 
 class Sign{
     public $accesToken ="845458468w4r84e684ef5458f4e58t4t58ht4h86t4";
-
-  	public $host = "https://soft-dreams-development.azurewebsites.net";
+	public $host = "https://soft-dreams-development.azurewebsites.net";
     // public $host = "https://soft-dreams.azurewebsites.net";
     
     public $host2="https://softdreamsmediauploader.azurewebsites.net/api/upload";
