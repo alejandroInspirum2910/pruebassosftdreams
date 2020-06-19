@@ -1,0 +1,320 @@
+/*Alieneacion nube flotador- puntos*/
+.a
+{
+  color:rgba(70, 148, 139, 1)  !important;
+  font-family: VAG Rounded Black SSi Bold !important;
+}
+.titulo-nube {
+   color: #FFF;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 25pt !important;
+  font-weight: 400 !important;
+  letter-spacing: 3.36px !important;
+  line-height: 37.91px !important;
+  padding-right: 25px;
+  padding-left: 12px;
+}
+.icono-nube
+{
+  width: 48px;
+  height: 30px
+}
+.input
+{
+   color: rgba(70, 148, 139, 1) !important;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  letter-spacing: 1.68px !important;
+  line-height: 17px !important;
+}
+/*TExto Rojo*/
+.alerta-texto {
+  color: #DC5B5B;
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2.16px;
+  line-height: 22px;
+  width: 618px;
+  text-align: left;
+}
+/*TExto Azul*/
+.alerta-texto2 {
+  color: rgba(70, 148, 139, 1) ;
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2.16px;
+  line-height: 22px;
+}
+
+.alineacion
+{
+  text-align: -webkit-right;
+      width: 87% ;
+}
+
+.row_bg:not(:first-child),
+.grid_row:not(:first-child) {
+    padding-top: 5px !important;
+}
+
+.row_bg:not(:last-child),
+.grid_row:not(:last-child) {
+    padding-bottom: 5px !important;
+}
+
+.label {
+  color: rgba(70, 148, 139, 1) ;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  letter-spacing: 2.16px !important;
+  line-height: 22px !important;
+}
+
+.valid-feedback
+{
+  color: #22ca03;
+}
+
+.invalid-feedback
+{
+  color: #c70303;
+}
+
+.hr-linea
+{
+  background-color: #9F9F9F !important;
+}
+
+.fondo-azul
+{
+  background-color: rgb(54,131,122);
+  background-image: url('../img/stars_background_inside.jpg');
+  height: 208px;
+}
+
+.margin-bottom-menu
+{
+   margin-bottom: 10px;
+}
+.form-group
+{
+  font-family: VAG Rounded Black SSi Bold !important;
+}
+
+.fotter
+{
+  background-color: rgba(70, 148, 139, 1)  !important;
+    position: unset !important;
+    height: 3.7em;
+}
+
+.modal-footer
+{
+  font-family: VAG Rounded Black SSi Bold !important;
+}
+
+.copyrights_container {
+    padding-top: 18px !important;
+}
+button, input, optgroup, select, textarea 
+{
+  font-family: VAG Rounded Black SSi Bold !important;
+  }
+@media screen and (max-width: 1190px)
+{
+  .alineacion
+{
+      width: 940px ;
+}
+}
+
+@media screen and (max-width: 980px)
+{
+  .alineacion
+  {
+    
+    width: 738px ;
+  }
+}
+
+@media screen and (max-width: 767px)
+{
+  .alineacion
+  {
+    
+    width: auto;
+    margin-right: 20px;
+  }
+
+  .fotter
+  {
+    height: auto;
+  }
+
+  .copyrights_container 
+  {
+    padding-top: 5px !important;
+}
+
+.ganaimg
+ {
+  height: 200px !important;
+}
+
+}
+@media screen and ( max-width: 675px) 
+{
+
+.alineacion
+{
+  width: auto;
+  padding-top: 10px !important;
+}
+
+.row_bg:not(:first-child),
+.grid_row:not(:first-child) {
+    padding-top: 15px !important;
+}
+
+.row_bg:not(:last-child),
+.grid_row:not(:last-child) {
+    padding-bottom: 15px !important;
+}
+
+}
+
+@media screen and  (max-width: 576px)
+{
+.alineacion {
+    width: auto; ;
+}
+}
+
+@media screen and ( max-width: 475px) 
+{
+
+.alerta-texto2 
+{
+  font-size: 11.5pt;
+}
+
+.input
+{
+  font-size: 12pt !important;
+}
+.alineacion
+{
+  width: auto;
+  
+}
+
+.btn {
+    font-size: .6rem !important;
+}
+
+.sub-titulos {
+    font-size: 22pt;
+    
+}
+
+.p {
+  
+    font-size: 12pt !important;
+    
+}
+
+.terminos-y-condicion {
+    
+    font-size: 12pt !important;
+    
+}
+
+.texto3
+{
+    font-size: .55em !important;
+    
+}
+.texto2 
+{
+  font-size: 15pt !important;
+}
+
+}
+
+@media screen and ( max-width: 360px) 
+{
+  .titulo-nube 
+{
+  padding-right: 10px;
+  padding-left: : 2px;
+}
+.alineacion {
+    width: auto ;
+    margin-right: 0px;
+}
+}
+
+#overlay{ 
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+  width: 100%;
+  height:100%;
+  display: none;
+  background: rgba(0,0,0,0.6);
+}
+.cv-spinner {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+.spinner {
+  width: 100px;
+  height: 100px;
+  border: 8px #ddd solid;
+  border-top: 8px #26b4d7 solid;
+  border-radius: 50%;
+  animation: sp-anime 0.8s infinite linear;
+}
+@keyframes sp-anime {
+  100% { 
+    transform: rotate(360deg); 
+  }
+}
+.is-hide{
+  display:none;
+}
+
+.terminos-y-condicion {
+  color: #FFFFFF !important;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.terminos-y-condicion:hover {
+  
+  text-decoration: none !important;
+}
+.texto3
+{
+  /*color: #AA8D1E;*/
+  /*color: rgba(203, 160, 77, 1);*/
+  color: rgb(30, 133, 123);
+    font-size: .75em;
+    font-family: VAG Rounded Black SSi Bold;
+}
+
+.btn-info
+{
+  background-color: rgba(65,142,132,1) !important;
+}

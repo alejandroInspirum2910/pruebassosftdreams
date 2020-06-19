@@ -1,0 +1,261 @@
+.boton-magin
+{
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.logomenu
+{
+	    border-color: rgba(203, 160, 77, 1) !important;
+}
+
+.fondo-azul
+{
+	background-color: rgb(54,131,122);
+}
+.fondo-1
+{
+	background-color: #35A89F;
+}
+.centrar
+{
+	text-align: center;
+}
+.alinear-img
+{
+	text-align: left;
+}
+.posision{position: relative;}
+.logo-idex>img{
+	width: 11em !important;
+	height: 7.5em !important;
+}
+.fondo-azul
+{
+	height: 180px;
+}
+
+.titulo
+{
+  color: rgba(203, 160, 77, 1);
+  font-family: VAG Rounded Black SSi Bold ;
+  font-size: 34pt;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  text-align: left;
+  margin-bottom: 0.4em !important;
+}
+.titulo2
+{
+   color: #AA8D1E !important;
+  font-family: VAG Rounded Black SSi Bold  !important;
+  font-size: 20pt !important;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  
+}
+
+.titulo2:hover
+{
+   color: #35A89F;
+   text-shadow: #AA8D1E 1px;
+  
+}
+
+.sub-titulos {
+  color: rgba(7, 109, 99, 1) !important;
+  font-family: VAG Rounded Black SSi Bold  !important;
+  font-size: 32px !important;
+  font-weight: 400;
+  letter-spacing: 3.84px;
+  line-height: 43px;
+  text-align: left;
+
+}
+
+
+
+.alinear-nube{
+  text-align: -webkit-right;
+}
+
+.nubeflotante
+{
+  padding-top: 120px;
+  padding-right: 35px;
+}
+
+
+.texto1 {
+  color: #313131 !important;
+  font-family: VAG Rounded Black SSi Bold  !important;
+  font-size: 20px !important;
+  font-weight: 400;
+  letter-spacing: 2.4px;
+  line-height: 25.28px;
+  text-align: justify !important;
+}
+
+.tituloimg {
+  color: #35A89F !important;
+  font-family: VAG Rounded Black SSi Bold  !important;
+  font-size: 28px !important;
+  font-weight: 400 !important;
+  letter-spacing: 3.36px !important;
+  line-height: 35.39px !important;
+  text-align: center;
+}
+
+.separateimg
+{
+  
+background-color:rgba(203, 160, 77, 1) !important;
+}
+
+.select:hover{color:#313131}
+
+.linea
+{
+	border-bottom: 5px !important;
+	border-top: 5px !important;
+}
+
+
+.terminos-tyc
+{
+	color: rgba(7, 109, 99, 1);
+	font-family: VAG Rounded Black SSi Bold ;
+	font-size: 28pt;
+	font-weight: 400;
+	letter-spacing: 3.36pt;
+}
+.boreder{margin: 0px !important; padding: 0px !important;}
+
+.cws_portfolio_items .item .title_part, 
+.cws_portfolio_items .item .desc_part 
+.categories a:hover, .cf label, 
+.cws-widget .current_page_item>a, .page_footer .cws-widget 
+.current-cat>a, .page_footer .cws-widget .current_page_item>a, 
+.select2-drop .select2-results .select2-highlighted, .cws-widget 
+.parent_archive .widget_archive_opener, .cws-widget .has_children .opener {
+    color: #AA8D1E !important;
+}
+
+.error-galeria
+{
+      position: relative;
+    text-align: center;
+    display: block;
+    padding-top: 4em;
+    color: #DC5B5B;
+}
+.body
+{
+  height: 100%;
+}
+@media screen and ( max-width: 1415px) 
+{
+  .body
+{
+  height: auto;
+}
+}
+
+@media screen and ( max-width: 975px) 
+{
+	.alinear-img
+{
+	text-align: center;
+}
+.img-menu{    height: 130px;}
+}
+@media screen and ( max-width: 767px) 
+{
+  .site_header {
+    position: absolute ;
+    height: 190px !important;
+
+  }
+  .fondo-azul
+  {
+   height: 170px;
+ }
+
+}
+@media screen and ( max-width: 824px) 
+{
+.logo-idex>img{
+		        width: 200px !important;
+    height: 150px !important;
+   
+	}
+}
+@media screen and ( max-width: 675px) 
+{
+	.alinear-img
+{
+	display: none;
+}
+
+
+}
+@media screen and ( max-width: 479px) 
+{
+	.font
+  {
+    font-size: 14px; left: 3% !important;
+		top: 9em;
+	}
+	.logo-idex>img
+  {
+    width: 180px !important;
+    height: 130px !important;
+	}
+	
+	.imagen-circulo
+	{
+		border-radius: 50% !important;
+		width:150px !important; height:150px !important;
+	}
+
+  .grid.grid-2 .item,
+    .page_content.single_sidebar .grid.grid-2 .item,
+    .page_content.double_sidebar .grid.grid-2 .item,
+    .grid.grid-3 .item,
+    .page_content.single_sidebar .grid.grid-3 .item,
+    .page_content.double_sidebar .grid.grid-3 .item,
+    .grid.grid-4 .item,
+    .page_content.single_sidebar .grid.grid-4 .item,
+    .page_content.double_sidebar .grid.grid-4 .item 
+    {
+        float: left !important;
+    width: calc(50% - 20px) !important;
+    margin-right: 6px !important;
+    }
+
+.tituloimg 
+{
+    font-size: 12pt !important;
+    letter-spacing: 0px !important;
+    line-height: 20px !important;
+}
+
+.margin-botton
+{
+	padding-bottom: 10px !important;
+}
+
+.imagen-circulo
+{border-radius: 50% !important;
+width:215px; height:215px;
+}
+
+.cws_portfolio_items 
+.item .media_part 
+{
+    border-width: 6px !important;
+    
+}
+}

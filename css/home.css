@@ -1,0 +1,292 @@
+
+.logomenu
+{
+	    border-color: rgba(203, 160, 77, 1) !important;
+}
+#valor_nube
+{
+  padding-left: 15px;
+}
+.fondo-1
+{
+	background-color: rgba(203, 160, 77, 1);
+}
+.centrar
+{
+	text-align: center;
+}
+.alinear-img
+{
+	text-align: left;
+}
+.posision{position: relative;}
+.logo-idex>img{
+	width: 11em !important;
+	height: 7.5em !important;
+}
+.fondo-azul
+{
+	height: 180px;
+}
+
+.titulo
+{
+  color: rgba(203, 160, 77, 1);
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 34pt;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  text-align: left;
+  margin-bottom: 0.4em !important;
+}
+.titulo2
+{
+   color: rgba(203, 160, 77, 1);
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  
+}
+.sub-titulos {
+  /*color: rgba(7, 109, 99, 1);*/
+  color: rgba(7, 109, 99, 1);
+ 
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 3.84px;
+  line-height: 43px;
+  text-align: left;
+
+}
+.sub-titulos2 {
+  /*color: rgba(7, 109, 99, 1);*/
+  color: rgba(203, 160, 77, 1);
+  
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 3.84px;
+  line-height: 43px;
+  text-align: left;
+
+}
+
+.sub-titulos1 {
+  color: rgba(7, 109, 99, 1) !important;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 25px !important;
+  font-weight: 400 !important;
+  letter-spacing: 3.84px !important;
+  line-height: 43px !important;
+  text-align: left !important;
+}
+
+.linea
+{
+	border-bottom: 5px !important;
+	border-top: 5px !important;
+}
+.hr-linea
+{
+	background-color: #9F9F9F !important;
+}
+
+.terminos-tyc
+{
+	color: rgba(7, 109, 99, 1);
+	font-family: VAG Rounded Black SSi Bold;
+	font-size: 28pt;
+	font-weight: 400;
+	letter-spacing: 3.36pt;
+}
+.boreder{margin: 0px !important; padding: 0px !important;}
+
+/*hover de input select*/
+.cws_portfolio_items .item .title_part, 
+.cws_portfolio_items .item .desc_part 
+.categories a:hover, .cf label, 
+.cws-widget .current_page_item>a, .page_footer .cws-widget 
+.current-cat>a, .page_footer .cws-widget .current_page_item>a, 
+.select2-drop .select2-results .select2-highlighted, .cws-widget 
+.parent_archive .widget_archive_opener, .cws-widget .has_children .opener {
+    color: rgba(203, 160, 77, 1) !important;
+}
+
+.preview-img
+{
+  height: 200px;
+}
+
+
+.custom-input-file {
+  background-color: rgba(203, 160, 77, 1);
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 0 auto 0;
+  min-height: 15px;
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+    border-radius: 7px;
+  font-weight: 400;
+  letter-spacing: 1.92px;
+  line-height: 19px;
+  
+}
+
+.custom-input-file .input-file {
+ border: 100px solid transparent;
+ cursor: pointer;
+ margin: 0;
+ opacity: 0;
+ outline: 0 none;
+ padding: 0;
+ position: absolute;
+ right: -100px;
+ top: -100px;
+}
+.custom-input-file:hover
+{
+  background-color: rgb(54,131,122);
+}
+
+.rticket
+{
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 25px !important;
+}
+
+.select1
+{
+  border-color: #26b4d7;
+  color: rgba(203, 160, 77, 1);
+  background: #fafafa;
+  width: 200px;
+  padding: 8px;
+margin: 0;
+-webkit-border-radius:0;
+-moz-border-radius:0;
+border-radius: 5px;
+}
+
+.select1>option
+{
+  color: rgba(203, 160, 77, 1);
+}
+
+
+
+@media screen and ( max-width: 975px) 
+{
+	.alinear-img
+{
+	text-align: center;
+}
+.img-menu{    height: 130px;}
+}
+@media screen and ( max-width: 767px) {
+    .site_header {
+        position: absolute ;
+        height: 190px !important;
+
+    }
+    .fondo-azul
+{
+	height: 170px;
+}
+/*disminuir el tamaño de la imagen de fondo*/
+.pattern.pattern-2
+  {
+  	width: 60px !important;
+  }
+  /*CAMBIAR LA POCION DE LAS COLUMNAS EN EL MOVIL*/
+  .boxes {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+}
+.body
+{
+  height: 100%;
+}
+@media screen and ( max-width: 1415px) 
+{
+  .body
+{
+  height: auto;
+}
+}
+@media screen and ( max-width: 824px) 
+{
+.logo-idex>img{
+		        width: 200px !important;
+    height: 150px !important;
+   
+	}
+}
+@media screen and ( max-width: 675px) 
+{
+	.alinear-img
+{
+	display: none;
+}
+
+
+}
+@media screen and ( max-width: 479px) 
+{
+	.font{font-size: 14px; left: 3% !important;
+		top: 9em;
+	}
+	.logo-idex>img{
+    width: 180px !important;
+    height: 130px !important;
+	}
+	
+	 .boxes {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .sub-titulos
+  {
+    font-size: 32pt;
+  }
+
+  .body
+{
+  height: auto;
+}
+
+.date
+{
+  width: 200px;
+}
+
+.movil-separador
+{
+  padding-top: 35px;
+}
+
+}
+
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #26b4d7; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

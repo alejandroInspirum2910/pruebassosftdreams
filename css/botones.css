@@ -1,0 +1,45 @@
+.boton-uno {
+  color: #FFFFFF;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 16pt !important;
+  font-weight: 400;
+  letter-spacing: 1.92px;
+  line-height: 19px;
+  width: 232px;
+  text-align: center  !important;
+  background-color: rgba(203, 160, 77, 1) !important;
+}
+.boton-uno:hover{background-color: #35A89F !important;}
+
+.boton-dos {
+  color: #FFFFFF;
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 16pt;
+  font-weight: 400;
+  letter-spacing: 1.92px;
+  line-height: 19px;
+  width: 232px;
+  text-align: center;
+  background-color: #DC5B5B !important;
+}
+.boton-dos:hover{background-color: #35A89F !important;}
+
+@media screen and ( max-width: 479px) 
+{
+	.boton-uno {
+  width: 100%;
+  
+  font-size: 12pt !important;
+  padding: 10px 7px 10px 7px !important;
+}
+.div-nuve
+{
+  padding-right: 20px;
+}
+.boton-dos 
+{
+  width: 100%;
+  font-size: 16pt !important;
+}
+
+}

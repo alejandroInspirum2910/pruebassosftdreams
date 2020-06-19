@@ -1,0 +1,220 @@
+.boton-magin
+{
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.logomenu
+{
+	    border-color: rgba(203, 160, 77, 1) !important;
+}
+
+.fondo-azul
+{
+	background-color: rgb(54,131,122);
+}
+.fondo-1
+{
+	background-color: #35A89F;
+}
+.centrar
+{
+	text-align: center;
+}
+.alinear-img
+{
+	text-align: left;
+}
+.posision{position: relative;}
+.logo-idex>img{
+	width: 11em !important;
+	height: 7.5em !important;
+}
+.fondo-azul
+{
+	height: 180px;
+}
+
+.titulo1
+{
+  /*color: #35A89F;*/
+  color: rgba(203, 160, 77, 1);
+  font-family: VAG Rounded Black SSi Bold;
+  font-size: 34pt;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  text-align: left;
+  margin-bottom: 0.4em !important;
+}
+.titulo2
+{
+   /*color: #AA8D1E !important;*/
+   color: rgba(203, 160, 77, 1);
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 30px !important;
+  font-weight: 400;
+  letter-spacing: 3.96px;
+  line-height: 30.34px;
+      text-align: center;
+  
+}
+
+
+.titulo2:hover
+{
+   /*color: #35A89F;*/
+   color: rgba(203, 160, 77, 1);
+   text-shadow: #AA8D1E 1px;
+  
+}
+
+.sub-titulos {
+  color: rgba(7, 109, 99, 1) !important;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 32pt !important;
+  font-weight: 400;
+  letter-spacing: 3.84px;
+  line-height: 54px;
+  text-align: left;
+
+}
+
+.texto1 {
+  /*color: #313131 !important;*/
+  color: rgb(30, 133, 123);
+  
+  font-size: 22px !important;
+  font-weight: 500 !important;
+  text-align: justify !important;
+  line-height: 26.34px;
+}
+
+.texto1_1 {
+  /*color: #313131 !important;*/
+  position: relative;
+  color: rgb(30, 133, 123);
+  margin-bottom: 0em !important;
+  font-size: 22px ;
+  font-weight: 500 ;
+  text-align: justify ;
+  line-height: 26.34px;
+  letter-spacing: .149em;
+}
+
+.texto2 {
+  /*color: #313131 !important;*/
+  /*color: rgba(7, 109, 99, 1);*/
+  color: rgb(30, 133, 123);
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 25px !important;
+  font-weight: 500 !important;
+  text-align: justify !important;
+  line-height: 28.34px;
+  
+}
+
+
+.linea
+{
+	border-bottom: 5px !important;
+	border-top: 5px !important;
+}
+.hr-linea
+{
+	background-color: #9F9F9F !important;
+}
+
+.terminos-tyc
+{
+	color: rgba(7, 109, 99, 1);
+	font-family: VAG Rounded Black SSi Bold;
+	font-size: 28pt;
+	font-weight: 400;
+	letter-spacing: 3.36pt;
+}
+.boreder{margin: 0px !important; padding: 0px !important;}
+
+.imagen-circulo{border-radius: 50% !important;
+width:215px; height:215px;
+}
+@media screen and ( max-width: 975px) 
+{
+	.alinear-img
+{
+	text-align: center;
+}
+.img-menu{    height: 130px;}
+}
+@media screen and ( max-width: 767px) {
+    .site_header {
+        position: absolute ;
+        height: 190px !important;
+
+    }
+    .fondo-azul
+{
+	height: 170px;
+}
+
+}
+@media screen and ( max-width: 824px) 
+{
+.logo-idex>img{
+		        width: 200px !important;
+    height: 150px !important;
+   
+	}
+}
+@media screen and ( max-width: 675px) 
+{
+	.alinear-img
+{
+	display: none;
+}
+}
+@media screen and ( max-width: 479px) 
+{
+	.font
+  {
+    font-size: 14px; left: 3% !important;
+		top: 9em;
+	}
+	.logo-idex>img
+  {
+    width: 180px !important;
+    height: 130px !important;
+	}
+	
+	.imagen-circulo
+	{
+		border-radius: 50% !important;
+		width:150px !important; height:150px !important;
+	}
+
+  .titulo2
+{
+  font-size: 33pt;
+}
+.texto1 
+{
+  
+  font-size: 15pt !important;
+}
+
+.margin-botton
+{
+	padding-bottom: 10px !important;
+}
+
+.imagen-circulo{border-radius: 50% !important;
+width:215px; height:215px;
+}
+.texto1_1 
+{
+  letter-spacing: .0421em;
+  font-size: 14pt;
+}
+
+
+}

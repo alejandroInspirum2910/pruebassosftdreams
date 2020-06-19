@@ -1,0 +1,201 @@
+
+
+
+.boton-magin
+{
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.logomenu
+{
+	    border-color: rgba(203, 160, 77, 1) !important;
+}
+
+.fondo-azul
+{
+	background-color: rgb(54,131,122);
+}
+.fondo-1
+{
+	background-color: rgba(203, 160, 77, 1);
+}
+.centrar
+{
+	text-align: center;
+}
+.alinear-img
+{
+	text-align: left;
+}
+.posision{position: relative;}
+.logo-idex>img{
+	width: 11em !important;
+	height: 7.5em !important;
+}
+.fondo-azul
+{
+	height: 180px;
+}
+
+.titulo
+{
+  color: rgba(203, 160, 77, 1);
+  font-family: VAG Rounded Black SSi Bold ;
+  font-size: 34pt;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  text-align: left;
+  margin-bottom: 0.4em !important;
+}
+.titulo2
+{
+   color: #AA8D1E;
+  font-family: VAG Rounded Black SSi Bold ;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 2.88px;
+  line-height: 30.34px;
+  
+}
+
+.titulo2:hover
+{
+   color: rgba(203, 160, 77, 1);
+   text-shadow: #AA8D1E 1px;
+  
+}
+
+.sub-titulos {
+  color: rgba(7, 109, 99, 1);
+  font-family: VAG Rounded Black SSi Bold ;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 3.84px;
+  line-height: 43px;
+  text-align: left;
+
+}
+
+.linea
+{
+	border-bottom: 5px !important;
+	border-top: 5px !important;
+}
+.hr-linea
+{
+	background-color: #9F9F9F !important;
+}
+
+.terminos-tyc
+{
+	color: rgba(7, 109, 99, 1);
+	font-family: VAG Rounded Black SSi Bold ;
+	font-size: 28pt;
+	font-weight: 400;
+	letter-spacing: 3.36pt;
+}
+
+
+.boreder{margin: 0px !important; padding: 0px !important;}
+
+.p {
+  color: rgba(7, 109, 99, 1) !important;
+  font-family: VAG Rounded Black SSi Bold  !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  letter-spacing: 2.16px !important;
+  line-height: 22px !important;
+ 
+}
+
+.cerrar_s
+{
+  text-align: right !important;
+  padding-right: 30px;
+}
+
+a:hover{text-decoration: none !important;}
+.alt
+{
+  height: 70px;
+}
+
+.boton-uno1 {
+  color: #FFFFFF;
+  font-family: VAG Rounded Black SSi Bold !important;
+  font-size: 16pt !important;
+  font-weight: 400;
+  letter-spacing: 1.92px;
+  line-height: 19px;
+  text-align: center  !important;
+  background-color: rgba(203, 160, 77, 1) !important;
+}
+.boton-uno1:hover{background-color: rgba(203, 160, 77, 1) !important;}
+
+@media screen and ( max-width: 975px) 
+{
+	.alinear-img
+{
+	text-align: center;
+}
+.img-menu{    height: 130px;}
+}
+@media screen and ( max-width: 767px) {
+    .site_header {
+        position: absolute ;
+        height: 190px !important;
+
+    }
+    .fondo-azul
+{
+	height: 170px;
+}
+.cerrar_s
+{
+  text-align: left !important;
+  padding-right: 0px !important;
+}
+
+.alt
+{
+  height: auto;
+}
+
+}
+@media screen and ( max-width: 824px) 
+{
+.logo-idex>img{
+		        width: 200px !important;
+    height: 150px !important;
+   
+	}
+}
+@media screen and ( max-width: 675px) 
+{
+	.alinear-img
+{
+	display: none;
+}
+
+}
+@media screen and ( max-width: 479px) 
+{
+	.font{font-size: 14px; left: 3% !important;
+		top: 9em;
+	}
+	.logo-idex>img{
+    width: 180px !important;
+    height: 130px !important;
+	}
+	
+.boton-uno1 {
+   
+    font-size: 13pt !important;
+    
+}
+.cws_button.small, .cws_button.small.alt>span, .mini-cart .button {
+    padding: 8px 10px !important;
+}
+}
